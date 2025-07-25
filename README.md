@@ -2,8 +2,6 @@
 
 Una página web creada en **4 días** por mí, donde combino diseño visual, interactividad 3D y estilo moderno para presentar una bebida ficticia refrescante llamada **Refreshplash**.
 
-![Preview](./Screenshot%202025-07-25%20005730.png)
-
 ## 🚀 Tecnologías utilizadas
 
 - ⚛️ **React** – Librería principal para estructurar la interfaz.
