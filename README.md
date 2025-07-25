@@ -1,8 +1,9 @@
 # 🧃 Refreshplash
 
 Una página web creada en **4 días** por mí, donde combino diseño visual, interactividad 3D y estilo moderno para presentar una bebida ficticia refrescante llamada **Refreshplash**.
- 
-![Preview](./refreshplash.png)
+
+
+<img width="2513" height="1439" alt="Screenshot 2025-07-24 023208" src="https://github.com/user-attachments/assets/e3100a8c-3676-4153-9d10-8cb29b38d5b6" />
 
 ## 🚀 Tecnologías utilizadas
 
@@ -23,4 +24,3 @@ Una página web creada en **4 días** por mí, donde combino diseño visual, int
 - Carga inicial con transición y control de renderización.
 
 
-<img width="2513" height="1439" alt="Screenshot 2025-07-24 023208" src="https://github.com/user-attachments/assets/e3100a8c-3676-4153-9d10-8cb29b38d5b6" />
